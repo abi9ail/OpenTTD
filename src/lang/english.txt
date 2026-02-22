@@ -5488,19 +5488,19 @@ STR_ERROR_TOO_FAR_FROM_PREVIOUS_DESTINATION                     :too far from pr
 STR_ERROR_AIRCRAFT_NOT_ENOUGH_RANGE                             :aircraft has not enough range
 
 # Extra messages which go on the third line of errors, explaining why orders failed
-STR_ERROR_NO_RAIL_STATION                                       :There is no railway station
-STR_ERROR_NO_BUS_STATION                                        :There is no bus station
-STR_ERROR_NO_TRUCK_STATION                                      :There is no lorry station
-STR_ERROR_NO_DOCK                                               :There is no dock
-STR_ERROR_NO_AIRPORT                                            :There is no airport/heliport
-STR_ERROR_NO_STOP_COMPATIBLE_ROAD_TYPE                          :There are no stops with a compatible road type
-STR_ERROR_NO_STOP_COMPATIBLE_TRAM_TYPE                          :There are no stops with a compatible tram type
-STR_ERROR_NO_STOP_ARTICULATED_VEHICLE                           :There are no stops which are suitable for articulated road vehicles.{}Articulated road vehicles require a drive-through stop, not a bay stop
-STR_ERROR_AIRPORT_NO_PLANES                                     :This plane cannot land at this heliport
-STR_ERROR_AIRPORT_NO_HELICOPTERS                                :This helicopter cannot land at this airport
-STR_ERROR_NO_RAIL_WAYPOINT                                      :There is no rail waypoint
-STR_ERROR_NO_ROAD_WAYPOINT                                      :There is no road waypoint
-STR_ERROR_NO_BUOY                                               :There is no buoy
+STR_ERROR_NO_RAIL_STATION                                       :there is no railway station
+STR_ERROR_NO_BUS_STATION                                        :there is no bus station
+STR_ERROR_NO_TRUCK_STATION                                      :there is no lorry station
+STR_ERROR_NO_DOCK                                               :there is no dock
+STR_ERROR_NO_AIRPORT                                            :there is no airport/heliport
+STR_ERROR_NO_STOP_COMPATIBLE_ROAD_TYPE                          :there are no stops with a compatible road type
+STR_ERROR_NO_STOP_COMPATIBLE_TRAM_TYPE                          :there are no stops with a compatible tram type
+STR_ERROR_NO_STOP_ARTICULATED_VEHICLE                           :there are no stops which are suitable for articulated road vehicles.{}Articulated road vehicles require a drive-through stop, not a bay stop
+STR_ERROR_AIRPORT_NO_PLANES                                     :this plane cannot land at this heliport
+STR_ERROR_AIRPORT_NO_HELICOPTERS                                :this helicopter cannot land at this airport
+STR_ERROR_NO_RAIL_WAYPOINT                                      :there is no rail waypoint
+STR_ERROR_NO_ROAD_WAYPOINT                                      :there is no road waypoint
+STR_ERROR_NO_BUOY                                               :there is no buoy
 
 # Timetable related errors
 STR_ERROR_CAN_T_TIMETABLE_VEHICLE                               :Can't timetable vehicle...
